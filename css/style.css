@@ -68,10 +68,6 @@ a {
   text-transform: uppercase;
   padding: 2px 8px 2px 3px;
 }
-.member [aria-hidden] {
-  /* margin: 0 5px; */
-}
-
 .visual {
   background-color: lime;
   height: 120px;
